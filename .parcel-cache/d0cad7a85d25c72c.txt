@@ -254,7 +254,7 @@
 86E:\GitHub Homeworks\JS\goit-js-hw-09\node_modules\caniuse-lite\data\features\tls1-3.js133058923411682303 0
 85E:\GitHub Homeworks\JS\goit-js-hw-09\node_modules\svgo\plugins\cleanupListOfValues.js133058923223385637 0
 69E:\GitHub Homeworks\JS\goit-js-hw-09\node_modules\posthtml\lib\api.js133058923160082436 0
-64E:\GitHub Homeworks\JS\goit-js-hw-09\src\js\01-color-switcher.js133088598938929336 0
+64E:\GitHub Homeworks\JS\goit-js-hw-09\src\js\01-color-switcher.js133088663807503191 0
 100E:\GitHub Homeworks\JS\goit-js-hw-09\node_modules\caniuse-lite\data\features\intersectionobserver.js133058923398604581 0
 56E:\GitHub Homeworks\JS\goit-js-hw-09\node_modules\braces133088592160776482 1
 93E:\GitHub Homeworks\JS\goit-js-hw-09\node_modules\caniuse-lite\data\features\border-radius.js133058923332668554 0
